@@ -18,6 +18,10 @@ public class Mobile {
 		     this.version=version;
 	   }
 	   
+	   Mobile(String color){
+		   
+	   }
+	   
 	  
 	   public  void Description() {
 		   
